@@ -32,6 +32,8 @@ fallback = {'figure':{'container': '//*[@width>100]',
                              'microformat',
                              'navbox-vertical',
                              'Vorlage_Gesundheitshinweis',
+                             'embedVideo',
+                             'tooltip_tipwrapper',
                 ],
             }
 
